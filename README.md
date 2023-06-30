@@ -5,6 +5,7 @@ Employees:
 - email (unique)
 - first_name
 - last_name
+- phone_number
 
 Referrals:
 - referral_id (primary key)
